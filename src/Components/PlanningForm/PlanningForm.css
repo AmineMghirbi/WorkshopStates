@@ -1,0 +1,14 @@
+.todo__input{
+    width: 70%;
+    height: 48px;
+    border: none;
+}
+.btn__todo{
+    height: 50px;
+    padding: 0.5rem;
+    border: none;
+}
+
+.form__container{
+    margin-bottom: 1rem;
+}

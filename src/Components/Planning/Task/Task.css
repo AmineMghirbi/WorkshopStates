@@ -1,0 +1,5 @@
+.task__container{
+    padding: 0.54rem;
+    display: flex;
+    justify-content: space-between;
+}
